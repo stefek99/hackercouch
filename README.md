@@ -1,6 +1,17 @@
 ![](https://raw.github.com/jancborchardt/hackercouch/master/hackercouch.png)
 # Hacker Couch
 
+Video of my place - https://www.youtube.com/watch?v=_TLsgtzD4BE - 40 seconds long.
+
+Please come and join me!
+
+---
+---
+---
+---
+---
+---
+
 **Pledge your couch to hackers!**
 
 1. Fork this repository and put in your couch and/or travel info.
